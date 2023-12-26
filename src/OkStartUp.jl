@@ -1,5 +1,6 @@
 module OkStartUp
 
-# Write your package code here.
+include("typeinvestigate.jl")
+export showtypetree
 
 end
